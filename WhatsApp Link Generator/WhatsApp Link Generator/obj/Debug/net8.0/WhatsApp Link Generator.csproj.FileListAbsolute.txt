@@ -1,0 +1,14 @@
+C:\Users\shayn\source\repos\WhatsApp Link Generator\WhatsApp Link Generator\bin\Debug\net8.0\WhatsApp Link Generator.exe
+C:\Users\shayn\source\repos\WhatsApp Link Generator\WhatsApp Link Generator\bin\Debug\net8.0\WhatsApp Link Generator.deps.json
+C:\Users\shayn\source\repos\WhatsApp Link Generator\WhatsApp Link Generator\bin\Debug\net8.0\WhatsApp Link Generator.runtimeconfig.json
+C:\Users\shayn\source\repos\WhatsApp Link Generator\WhatsApp Link Generator\bin\Debug\net8.0\WhatsApp Link Generator.dll
+C:\Users\shayn\source\repos\WhatsApp Link Generator\WhatsApp Link Generator\bin\Debug\net8.0\WhatsApp Link Generator.pdb
+C:\Users\shayn\source\repos\WhatsApp Link Generator\WhatsApp Link Generator\obj\Debug\net8.0\WhatsApp Link Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shayn\source\repos\WhatsApp Link Generator\WhatsApp Link Generator\obj\Debug\net8.0\WhatsApp Link Generator.AssemblyInfoInputs.cache
+C:\Users\shayn\source\repos\WhatsApp Link Generator\WhatsApp Link Generator\obj\Debug\net8.0\WhatsApp Link Generator.AssemblyInfo.cs
+C:\Users\shayn\source\repos\WhatsApp Link Generator\WhatsApp Link Generator\obj\Debug\net8.0\WhatsApp Link Generator.csproj.CoreCompileInputs.cache
+C:\Users\shayn\source\repos\WhatsApp Link Generator\WhatsApp Link Generator\obj\Debug\net8.0\WhatsApp Link Generator.dll
+C:\Users\shayn\source\repos\WhatsApp Link Generator\WhatsApp Link Generator\obj\Debug\net8.0\refint\WhatsApp Link Generator.dll
+C:\Users\shayn\source\repos\WhatsApp Link Generator\WhatsApp Link Generator\obj\Debug\net8.0\WhatsApp Link Generator.pdb
+C:\Users\shayn\source\repos\WhatsApp Link Generator\WhatsApp Link Generator\obj\Debug\net8.0\WhatsApp Link Generator.genruntimeconfig.cache
+C:\Users\shayn\source\repos\WhatsApp Link Generator\WhatsApp Link Generator\obj\Debug\net8.0\ref\WhatsApp Link Generator.dll
